@@ -2,3 +2,4 @@ Profile Resolution
 - Lebih giat belajar tentang backend development
 - Membuat berbagai project min 1 dalam 1 minggu
 - Sharing sesama backend di area terdekat
+- Belajar membuat sebuah project dengan kolaborasi
